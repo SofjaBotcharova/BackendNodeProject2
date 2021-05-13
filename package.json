@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SofjaBotcharova/BackendNodeProject.git"
+    "url": "git+https://github.com/SofjaBotcharova/BackendNodeProject1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SofjaBotcharova/BackendNodeProject/issues"
+    "url": "https://github.com/SofjaBotcharova/BackendNodeProject1/issues"
   },
-  "homepage": "https://github.com/SofjaBotcharova/BackendNodeProject#readme",
+  "homepage": "https://github.com/SofjaBotcharova/BackendNodeProject1#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
